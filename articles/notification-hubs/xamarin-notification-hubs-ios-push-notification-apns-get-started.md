@@ -58,7 +58,7 @@ This section walks you through creating a new notification hub and configuring a
 
 <li>
 
-<p>As we want to configure the APNS connection, in the Azure Portal, open your Notification Hub settings, ande click on <b>Notification Services</b>, and then click the <b>Apple (APNS)</b> item in the list. Once done, click on <b>Upload Certificate</b> and select the <b>.p12</b> certificate that you exported earlier, as well as the password for the certificate.</p>
+<p>As we want to configure the APNS connection, in the Azure Portal, open your Notification Hub settings, and click on <b>Notification Services</b>, and then click the <b>Apple (APNS)</b> item in the list. Once done, click on <b>Upload Certificate</b> and select the <b>.p12</b> certificate that you exported earlier, as well as the password for the certificate.</p>
 
 <p>Make sure to select <b>Sandbox</b> mode since you will be sending push messages in a development environment. Only use the <b>Production</b> setting if you want to send push notifications to users who already purchased your app from the store.</p>
 </li>
